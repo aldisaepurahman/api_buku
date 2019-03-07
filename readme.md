@@ -1,3 +1,7 @@
+# CRUD Pada Database Buku Menggunakan Lumen Dan Axios Vue.Js
+
+API Buku ini merupakan sebuah pengimplementasian CRUD pada API Lumen menggunakan Vue.Js. Dalam API ini, data yang bisa dimasukkan yaitu berupa judul buku, tahun diterbitkannya buku tersebut, serta penerbitnya. Bagaimana cara menggunakannya?
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
