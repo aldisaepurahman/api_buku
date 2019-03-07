@@ -2,6 +2,10 @@
 
 API Buku ini merupakan sebuah pengimplementasian CRUD pada API Lumen menggunakan Vue.Js. Dalam API ini, data yang bisa dimasukkan yaitu berupa judul buku, tahun diterbitkannya buku tersebut, serta penerbitnya. Bagaimana cara menggunakannya?
 
+## 1. Instal laravel-cors pada Lumen
+
+Penginstalan ini bertujuan agar API Lumen yang digunakan dapat memanggil aplikasi yang memproses atau tampilan dari webnya (dalam hal ini, Vue.Js adalah yang paling bertanggung jawab). Cara instalasinya yaitu:
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
