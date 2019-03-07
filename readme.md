@@ -6,6 +6,10 @@ API Buku ini merupakan sebuah pengimplementasian CRUD pada API Lumen menggunakan
 
 Penginstalan ini bertujuan agar API Lumen yang digunakan dapat memanggil aplikasi yang memproses atau tampilan dari webnya (dalam hal ini, Vue.Js adalah yang paling bertanggung jawab). Cara instalasinya yaitu:
 
+``` bash
+composer require barryvdh/laravel-cors
+```
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
